@@ -2,8 +2,8 @@ name 'apache'
 maintainer 'Tio Bagio'
 maintainer_email 'tbagio@chef.io.com'
 license 'All Rights Reserved'
-description 'Installs/Configures ch4_webserver'
-long_description 'Installs/Configures ch4_webserver'
+description 'Installs/Configures apache webserver'
+long_description 'Installs/Configures apache webserver'
 version '0.1.0'
 chef_version '>= 13.0'
 
@@ -11,10 +11,10 @@ chef_version '>= 13.0'
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when
 # uploaded to a Supermarket.
 #
-# issues_url 'https://github.com/<insert_org_here>/ch4_webserver/issues'
+# issues_url 'https://github.com/<insert_org_here>/ch10_apache/issues'
 
 # The `source_url` points to the development repository for this cookbook.  A
 # `View Source` link will be displayed on this cookbook's page when uploaded to
 # a Supermarket.
 #
-# source_url 'https://github.com/<insert_org_here>/ch4_webserver'
+# source_url 'https://github.com/<insert_org_here>/ch10_apache'
